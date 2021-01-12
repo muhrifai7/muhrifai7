@@ -1,4 +1,6 @@
-### Hi there, I'm Rifai
+### Hi there, I'm Rifai 
+
+[![HitCount](http://hits.dwyl.com/muhrifai7/muhrifai7.svg)](http://hits.dwyl.com/muhrifai7/muhrifai7)
 
 ## I'm a Developer!!
 
